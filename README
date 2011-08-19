@@ -1,0 +1,1 @@
+copy src/rakefile.rb and src/e.txt to nuget/content/ and then run nuget/nuget pack riggit.nuspec to generate a new package (don't forget to increment the version number and stuff)

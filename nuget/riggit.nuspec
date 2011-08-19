@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>riggit</id>
+    <version>0.1</version>
+    <authors>jonezy</authors>
+    <owners>jonezy</owners>
+    <projectUrl>http://github.com/jonezy/riggit/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package description</description>
+    <tags>.net rakefile</tags>
+  </metadata>
+</package>
